@@ -1,0 +1,8 @@
+print('a) A aproximação é {x1:.3f}, e por truncamento é {x2}'.format(x1 = round(1.1598, 3), x2 = str(1.1598)[:5])) 
+print('b) A aproximação é {x1:.3f}, e por truncamento é {x2}'.format(x1 = round(7.3999, 3), x2 = str(7.3999)[:5]))
+print('c) A aproximação é {x1:.3f}, e por truncamento é {x2}'.format(x1 = round(5.9012, 3), x2 = str(5.9012)[:5]))
+print('d) A aproximação é {x1:.3f}, e por truncamento é {x2}'.format(x1 = round(1.1615, 3), x2 = str(1.1615)[:5]))
+print('e) A aproximação é {x1:.3f}, e por truncamento é {x2}'.format(x1 = round(3.135598, 3), x2 = str(3.135598)[:5]))
+print('f) A aproximação é {x1:.3f}, e por truncamento é {x2}'.format(x1 = round(8.394559, 3), x2 = str(8.394559)[:5]))
+print('g) A aproximação é {x1:.3f}, e por truncamento é {x2}'.format(x1 = round(9.907142, 3), x2 = str(9.907142)[:5]))
+print('h) A aproximação é {x1:.3f}, e por truncamento é {x2}'.format(x1 = round(0.1615221, 3), x2 = str(0.1615221)[:5]))
